@@ -13,3 +13,7 @@ Primeira alteração feita diretamente pelo GitHub.
 ## Anotações
 
 Estou aprendendo a trabalhar com branches no Git.
+
+## Clone
+
+Aprendendo a clonar e sincronizar repositórios com Git.
